@@ -1,8 +1,4 @@
 
-1688找货源
-
-
-❯
 #!/bin/bash 
 base=socks5
 kcptun_log_dir=/var/log/kcptun
