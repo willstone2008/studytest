@@ -26,7 +26,7 @@ downlod_file() {
 
 	EOF
 	if [ ! -f "socks5.tar.gz" ]; then
-	     curl -o "socks5.tar.gz" "https://github.com/willstone2008/studytest/blob/main/socks5.tar.gz"
+	     curl -o "socks5.tar.gz" "https://github.com/willstone2008/studytest/raw/main/socks5.tar.gz"
 	fi
      cat >&2 <<-'EOF'
 
