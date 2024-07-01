@@ -1,4 +1,3 @@
-
 #!/bin/bash 
 base=socks5
 kcptun_log_dir=/var/log/kcptun
